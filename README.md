@@ -5,7 +5,7 @@ Desenvolvi esse desafio durante um processo do projeto ONE com a alura.
 O ONE é um projeto que gera oportunidades na área de tecnologia, e junto com a alura uma plataforma de estudos, prepara profissionais para o mercado de trabalho, conectando teoria à prática por meio de atividades.
 
 🛠️ Sobre o Projeto
-O desafio era construir a parte Java Script de um amigo secreto, desenvolvendo funções que salve nome de pessoas e fizesse um sorteio entre elas.
+O desafio era construir a parte JavaScript de um amigo secreto, desenvolvendo funções que salve nome de pessoas e fizesse um sorteio entre elas.
 
 🚀 Funcionalidades
 O projeto apresenta as seguintes funcionalidades:
